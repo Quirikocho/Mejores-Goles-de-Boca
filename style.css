@@ -1,0 +1,17 @@
+.encabezado{ align-items: center;
+            text-align: center;
+}
+
+h1{background-color: yellow;
+    padding: 20px;
+    border: 10px solid blue;
+}
+
+p {background-color: yellow;
+    padding: 20px;
+    border: 10px solid blue;
+}
+
+body{
+    background-color: aqua;
+}
